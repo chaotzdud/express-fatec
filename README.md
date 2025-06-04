@@ -20,9 +20,8 @@ npm run dev
 ```json
 {
   "id": 1,
-  "name": Eduarda,
-  "age": 20 
-  
+  "name": "Eduarda",
+  "age": 20   
 }
 ```
 ```
