@@ -3,9 +3,9 @@
 ## **1. Para rodar o projeto**
 
 ```bash
-git clone github.com/chaotzdud/express-api
+git clone github.com/chaotzdud/express-fatec
 npm install
-npm run dev
+node run ./src/server.js
 ```
 
 ## **2. Endpoints**
@@ -15,7 +15,7 @@ npm run dev
 - **GET /users/:id**
 - **DELETE /users/:id**
 
-### Corpo JSON
+### **2.1. Corpo JSON**
 
 ```json
 {
